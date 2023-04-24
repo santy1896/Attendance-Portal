@@ -497,14 +497,7 @@ Distributed under the GPL - 3.0 License.
 <!-- CONTACT -->
 ## Contact the developers
 
-Shreyas  - shreyas.mm@somaiya.edu
-
-Sakshi - shelar.sa@somaiya.edu
-
-Akshit - akshit.gs@somaiya.edu
-
-
-
+Santhosh - santysmiler@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
